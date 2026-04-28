@@ -1,0 +1,36 @@
+/* Container principal */
+.pt-container { 
+    max-width: 800px; 
+    margin: 40px auto; 
+    padding: 20px; 
+    border: 1px solid #ddd; 
+    background: #fff; 
+}
+
+/* Status box */
+.pt-status { 
+    background: #f4f4f4; 
+    padding: 10px; 
+    margin: 20px 0; 
+}
+
+/* Messages */
+.pt-message { 
+    padding: 10px; 
+    margin: 5px 0; 
+    border-radius: 5px; 
+}
+
+/* Couleurs spécifiques */
+.pt-msg-admin { 
+    background: #d4edda; /* Vert clair pour admin */
+}
+
+.pt-msg-client { 
+    background: #e2e3e5; /* Gris pour client */
+}
+
+/* Dashboard Admin */
+.pt-admin-wrap { 
+    padding: 20px; 
+}
